@@ -6,7 +6,7 @@ As a technology enthusiast, I'm always seeking to learn new things and keep up w
   <img src="https://github.com/alvesgc/alvesgc/assets/13617054/0b61e662-37fd-4529-a44c-f0f59644aaff" height="36px">
   <img src="https://github.com/alvesgc/alvesgc/assets/13617054/9fbdc702-bb00-4018-b678-e71cbfe090a0" height="32px">
   <br><br>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,angular,cs,mysql"/>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,mysq"/>
   <p>Python, Java, JavaScript, NodeJS, MySQL.</p>
 </div>
 
@@ -14,8 +14,6 @@ As a technology enthusiast, I'm always seeking to learn new things and keep up w
 <br>
 
 <div align="center">
-  <img src="https://github.com/alvesgc/alvesgc/assets/13617054/b54b4203-68bf-4df1-ab2c-db12ad4e5bd9" height="36px">
-  <img src="https://github.com/alvesgc/alvesgc/assets/13617054/c3ff1c57-f1d4-42ae-b674-27f3cd6ac72c" height="32px">
   <br><br>
   <img src="https://skillicons.dev/icons?i=react,typescript"/>
   <p>React.js, TypeScript</p>
