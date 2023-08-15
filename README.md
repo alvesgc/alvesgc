@@ -10,8 +10,6 @@ As a technology enthusiast, I'm always seeking to learn new things and keep up w
 </div>
 
 <br>
-<br>
-
 <div align="center">
   <br><br>
   <h1>Learning</h1>
