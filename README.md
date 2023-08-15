@@ -29,5 +29,5 @@ As a technology enthusiast, I'm always seeking to learn new things and keep up w
 
 ##
 
-![](https://visitor-badge.laobi.icu/badge?page_id=alissongc.readme)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Falvesgc&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Falvesgc)
 
