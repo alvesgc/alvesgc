@@ -5,8 +5,8 @@ As a technology enthusiast, I'm always seeking to learn new things and keep up w
 <div align="center">
   <h1>Skills</h1>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,mysql"/>
-  <p>Python, Java, JavaScript, NodeJS, MySQL.</p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,nodejs,sqlite"/>
+  <p>Java, JavaScript, NodeJS,Sqlite.</p>
 </div>
 
 <br>
