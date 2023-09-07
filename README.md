@@ -15,7 +15,7 @@
 
 <div align="center">
 <a href="https://github/alvesgc"><img alt="twitter" src="https://img.shields.io/github/followers/alvesgc?color=181717&logo=github&style=for-the-badge&label=github" /></a>
-  <img src="https://komarev.com/ghpvc/?username=pedroperegrinaa&style=for-the-badge&color=32325D"/>
+  <img src="https://komarev.com/ghpvc/?username=alvesgc&style=for-the-badge&color=32325D"/>
 </div>
 
 ## **🧐 About:**
