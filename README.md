@@ -21,8 +21,6 @@
 ## **🧐 About:**
 
 ```diff
-@@I'm a lover of technology and art@@
-
 + As a technology enthusiast
 - I'm always seeking to learn new things and keep up
 - with the latest trends in the development community.
